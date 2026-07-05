@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# base de datos local de desarrollo
+local.db
+
+# imágenes subidas en desarrollo (fallback local de Vercel Blob)
+public/uploads/
